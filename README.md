@@ -49,19 +49,6 @@ These steps ensured that all visuals and metrics remained accurate.
 
 📈 ## Dashboard Features
 
-**KPI Cards**
-
-- Average Salary (Nigeria)
-
-- Average Salary (Global)
-
-- Salary by Gender
-
-- Salary by Experience Level
-
-- Salary by Region
-
-
 **Charts and Visuals**
 
 - Nigeria vs Global salary comparison
