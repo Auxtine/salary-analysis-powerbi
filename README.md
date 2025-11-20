@@ -1,4 +1,4 @@
-📊 # Salary Analysis Dashboard (Power BI)
+📊 #Salary Analysis Dashboard (Power BI)
 
 This project explores salary trends across regions, genders, and experience levels. The goal was to create a clear and interactive dashboard that highlights the difference between salaries in Nigeria and global earnings.
 
