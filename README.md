@@ -80,6 +80,7 @@ Clean layout with interactive filters
 ---
 
 ## 📷 Dashboard Preview
+
 ![Employee Salary Dashboard](https://raw.githubusercontent.com/Auxtine/salary-analysis-powerbi/main/EmployeeSalaryAnalysis.png)
 
 
