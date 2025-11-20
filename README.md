@@ -81,7 +81,7 @@ Clean layout with interactive filters
 
 ## 📷 Dashboard Preview
 
-![Salary Dashboard](EmployeeSalaryAnalysis.png)
+![Salary Dashboard]https://github.com/Auxtine/salary-analysis-powerbi/blob/main/EmployeeSalaryAnalysis.png)
 
 
 ---
