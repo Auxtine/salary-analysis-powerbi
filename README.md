@@ -1,11 +1,11 @@
-📊 #Salary Analysis Dashboard (Power BI)
+# 📊 Salary Analysis Dashboard (Power BI)
 
 This project explores salary trends across regions, genders, and experience levels. The goal was to create a clear and interactive dashboard that highlights the difference between salaries in Nigeria and global earnings.
 
 
 ---
 
-📌 ## Project Overview
+## 📌 Project Overview
 
 The dashboard provides insights into:
 
@@ -25,7 +25,7 @@ Each visual was designed to help users understand salary patterns in a simple an
 
 ---
 
-🧹 ## Data Cleaning and Preparation
+## 🧹 Data Cleaning and Preparation
 
 All cleaning was done in Power Query.
 
@@ -47,7 +47,7 @@ These steps ensured that all visuals and metrics remained accurate.
 
 ---
 
-📈 ## Dashboard Features
+## 📈 Dashboard Features
 
 **Charts and Visuals**
 
@@ -65,7 +65,7 @@ Clean layout with interactive filters
 
 ---
 
-🛠 ## Tools Used
+## 🛠 Tools Used
 
 - **Power BI Desktop**
 
@@ -79,14 +79,14 @@ Clean layout with interactive filters
 
 ---
 
-📷 ## Dashboard Preview
+## 📷 Dashboard Preview
 
 ![Salary Dashboard](EmployeeSalaryAnalysis.png)
 
 
 ---
 
-📁 ## How to Use This Project
+## 📁 How to Use This Project
 
 1. Download the .pbix file from this repository
 
@@ -101,14 +101,14 @@ Clean layout with interactive filters
 
 ---
 
-📚 ## Dataset Source
+## 📚 Dataset Source
 
 The dataset was used for educational and analysis purposes only.
 
 
 ---
 
-🤝 ## About the Project
+## 🤝 About the Project
 
 - This project helped develop practical experience in:
 
@@ -124,6 +124,6 @@ The dataset was used for educational and analysis purposes only.
 
 ---
 
-🔗 ## Connect With Me
+## 🔗 Connect With Me
 
 Feel free to share suggestions or reach out on GitHub or LinkedIn.
